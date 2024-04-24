@@ -2,6 +2,7 @@
 
 ### Problem Statement
 
+In the realm of fashion retail, there's a pressing need to efficiently categorize clothing items into distinct classes for better inventory management and customer experience. The project focuses on leveraging the KNN algorithm to classify images from the Fashion MNIST dataset into 10 predefined classes. I aim to explore various experiments to enhance model performance, including determining the optimal training dataset size, identifying the ideal method for splitting data into training and testing sets, and assessing the impact of data transformation through PCA on model accuracy.
 
 
 ### Data Description
