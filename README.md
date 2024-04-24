@@ -14,5 +14,5 @@ The Fashion MNIST dataset (https://www.kaggle.com/datasets/zalando-research/fash
 1. The performance of KNN models with Euclidean metric and Manhattan distance metric is the same.
 2. The accuracy and f1 score are higher after applying Principal Component Analysis, though the difference is not very significant (<1%).
 3. The time required for predicting using the KNN model on the test dataset has reduced significantly from 566.628 seconds to 87.051 seconds (84.64 %). This is because performing dimensionality reduction reduces the number of features (d) and hence, the time required for prediction with the KNN model (O(knd)).
-4. The classes with the highest and lowest success rates are 1 and 6 respectively and their success rates are 99.08 % and 67.59 % respectively.
+4. The classes with the highest and lowest success rates are 1 (Trouser) and 6 (Shirt) respectively and their success rates are 99.08 % and 67.59 % respectively.
 
